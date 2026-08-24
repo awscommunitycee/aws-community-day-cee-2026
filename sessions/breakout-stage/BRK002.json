@@ -1,0 +1,20 @@
+{
+  "id": "BRK002",
+  "title": "Securing Applications at Machine Speed with AWS Continuum",
+  "stage": "breakout-stage",
+  "start_time": "10:45",
+  "end_time": "11:15",
+  "duration_minutes": 30,
+  "speaker_ids": [
+    "andre-baumeier"
+  ],
+  "abstract": "Frontier AI models have collapsed the attacker's timeline. A newly disclosed vulnerability becomes a working exploit in minutes, and AI-assisted coding tools are shipping new application code faster than any security team can review it. The result is a widening gap: attackers now operate at machine speed while defenders are still finding and fixing issues by hand. The queue grows faster than anyone can clear it. This session makes the case that defending modern applications is no longer a problem you can staff your way out of — it requires agentic capabilities that reason about your application the way an attacker does, at the same speed. We'll look at why traditional tools fall short: SAST sees code but not context, DAST sees runtime but not root cause, SCA sees dependencies but not your code, and manual penetration testing is thorough but doesn't scale. None of them chain vulnerabilities across layers the way a real adversary — or an AI agent — can. We'll then walk through how AWS Security Agent, now part of AWS Continuum, closes that gap by bringing proactive, AI-powered security across the full development lifecycle: evaluating designs against your security requirements before code is written, reviewing pull requests as they're opened, and running on-demand penetration tests that discover and chain validated, reproducible vulnerabilities in hours instead of weeks. You'll see how the agent learns your application's context, plans attacks specific to it, and adapts in real time — and how Continuum extends that same reasoning into prioritization and remediation, all within guardrails you define.",
+  "language": "English",
+  "audience_capacity": 40,
+  "room": "Akvárium",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2026-09-17",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
