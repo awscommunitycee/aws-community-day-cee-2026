@@ -1,0 +1,20 @@
+{
+  "id": "COM002",
+  "title": "5 Steps to IAM Zero",
+  "stage": "main-stage",
+  "start_time": "10:15",
+  "end_time": "10:45",
+  "duration_minutes": 30,
+  "speaker_ids": [
+    "paul-schwarzenberger"
+  ],
+  "abstract": "According to AWS, around 2/3 of customer security breaches arise from leaked or stolen long-lived credentials such as API keys, passwords and secrets. Drawing on his experience across UK Government, Financial Services and the Energy sector, Paul presents 5 Steps to IAM Zero – a framework for eliminating IAM users across an AWS Organization. Starting with measurement, monitoring, and removal of unused identities, we'll move on to AWS IAM Identity Center for human users, IAM permissions and resource policies. You'll learn about newer authentication methods for machine, CI/CD and AI agentic access to and from AWS, including OIDC, IAM Roles Anywhere and IAM outbound identity federation. And you'll come away with practical steps you can take to significantly improve and maintain security across your own AWS environment.",
+  "language": "English",
+  "audience_capacity": 200,
+  "room": "Üvegterem",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2026-09-17",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
