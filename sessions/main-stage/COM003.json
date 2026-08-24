@@ -1,0 +1,20 @@
+{
+  "id": "COM003",
+  "title": "Hidden trade-offs in distributed architectures",
+  "stage": "main-stage",
+  "start_time": "10:55",
+  "end_time": "11:40",
+  "duration_minutes": 45,
+  "speaker_ids": [
+    "anahit-pogosova"
+  ],
+  "abstract": "Asynchronous event-driven architectures enable loosely coupled, scalable, and resilient systems. But the devil is in the details, and the true complexity lies in how components interact under real-world pressure. Ordering, idempotency, failure handling, latency, and cost aren't shaped by high-level architecture diagrams with boxes and arrows — they're shaped by the strategies and services you choose to integrate systems in distributed environments. In this talk, you'll uncover common design trade-offs behind integration decisions, illustrated with lessons from the field working with services like AWS Lambda, Amazon DynamoDB, and AWS Step Functions. You'll leave with a sharper intuition for how distributed architectures behave, and how to design event-driven systems that are both resilient and intentional.",
+  "language": "English",
+  "audience_capacity": 200,
+  "room": "Üvegterem",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2026-09-17",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
