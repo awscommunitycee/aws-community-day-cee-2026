@@ -1,0 +1,17 @@
+{
+  "id": "karoly-sepsy",
+  "name": "Károly Sepsy",
+  "title": "CBDO",
+  "company": "TC2",
+  "country": "Hungary",
+  "bio": "Károly is the CBDO at TC2, having previously worked as the company's CTO for six years. Originally a software developer, he has been working with AWS and Google Cloud technologies since 2012 in cloud architecture and consulting roles across Hungary and the United Kingdom. His expertise spans CI/CD, cloud migrations, data analytics, and AI platforms. In his current role, he focuses primarily on large-scale cloud transformation projects, managed services, and cloud strategy, while maintaining a strong interest in the evolving opportunities of generative AI.",
+  "linkedin": "https://www.linkedin.com/in/ksepsy/",
+  "sessions": [
+    "BRK004"
+  ],
+  "image": "speakers/images/karoly-sepsy.jpg",
+  "co_speakers": [
+    "eszter-kosa"
+  ],
+  "aws_programs": {}
+}
