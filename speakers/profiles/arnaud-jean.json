@@ -1,0 +1,16 @@
+{
+  "id": "arnaud-jean",
+  "name": "Arnaud Jean",
+  "title": "Senior Developer Advocate",
+  "company": "AWS",
+  "country": "France",
+  "bio": "Helping devs build cool stuff, learn faster, and laugh along the way - one bug at a time.",
+  "linkedin": "https://www.linkedin.com/in/thewitcherish/",
+  "sessions": [
+    "WKS001"
+  ],
+  "image": "speakers/images/arnaud-jean.jpg",
+  "aws_programs": {
+    "aws_employee": true
+  }
+}
