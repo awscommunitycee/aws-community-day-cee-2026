@@ -1,0 +1,17 @@
+{
+  "id": "andre-baumeier",
+  "name": "Andre Baumeier",
+  "title": "Senior Solutions Architect",
+  "company": "AWS",
+  "country": "Germany",
+  "bio": "Expert for development and operation of web and server applications with a huge interest in information security and data protection.",
+  "linkedin": "https://linkedin.com/in/baumeier",
+  "sessions": [
+    "BRK002",
+    "WKS002"
+  ],
+  "image": "speakers/images/andre-baumeier.jpg",
+  "aws_programs": {
+    "aws_employee": true
+  }
+}
