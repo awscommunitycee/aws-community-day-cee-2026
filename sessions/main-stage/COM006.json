@@ -1,0 +1,20 @@
+{
+  "id": "COM006",
+  "title": "IAC (Infrastructure as a Context of your AI agent)",
+  "stage": "main-stage",
+  "start_time": "14:00",
+  "end_time": "14:30",
+  "duration_minutes": 30,
+  "speaker_ids": [
+    "anton-antanovich"
+  ],
+  "abstract": "Just when you finally got the team to stop manually clicking in the AWS console and embrace Infrastructure as Code, the paradigm shifted again. Welcome to the era of the other IaC: Infrastructure as Context. As we transition from static scripts to autonomous AI agents, our biggest challenge isn't writing the code to deploy infrastructure—it's giving AI the situational awareness to manage it. An AI agent without context is just a hallucination machine with a root password. To build reliable, autonomous SRE and DevOps agents, we have to treat our entire cloud architecture, dependency graphs, and live observability metrics as a dynamic, tokenized context layer. In this talk, we'll look at the hilarious (and terrifying) evolution of the IaC acronym. More importantly, we'll dive into the practical architecture required to turn live cloud state into a rich, semantic map that AI agents can actually understand and safely navigate.",
+  "language": "English",
+  "audience_capacity": 200,
+  "room": "Üvegterem",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2026-09-17",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
