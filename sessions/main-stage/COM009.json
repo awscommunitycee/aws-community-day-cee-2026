@@ -1,0 +1,20 @@
+{
+  "id": "COM009",
+  "title": "Closing Keynote - The human latency problem",
+  "stage": "main-stage",
+  "start_time": "16:10",
+  "end_time": "16:55",
+  "duration_minutes": 45,
+  "speaker_ids": [
+    "meridith-grundei"
+  ],
+  "abstract": "As AI takes over more of the technical work, the costliest delay in any stack is human: knowing what to say in the meeting, the incident call, or the code review, and not saying it. This highly interactive keynote gets attendees on their feet and practicing in real time. They'll leave knowing how to spot the moment they're about to hold back, speak up under pressure without a script, and read a room the way they read a dashboard: signal first, static second.",
+  "language": "English",
+  "audience_capacity": 200,
+  "room": "Üvegterem",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2026-09-17",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
