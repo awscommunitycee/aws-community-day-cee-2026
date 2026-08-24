@@ -1,0 +1,14 @@
+{
+  "id": "joshua-fox",
+  "name": "Joshua Fox",
+  "title": "Senior Cloud Architect",
+  "company": "DoiT",
+  "country": "Israel",
+  "bio": "Joshua Fox has been a software architect in innovative technology companies for 20 years. Now, he advises tech startups and growth companies on architecture and cost optimization for Amazon Web Services.",
+  "linkedin": "https://il.linkedin.com/in/joshuafox",
+  "sessions": [
+    "BRK003"
+  ],
+  "image": "speakers/images/joshua-fox.jpg",
+  "aws_programs": {}
+}
