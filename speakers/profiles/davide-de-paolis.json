@@ -1,0 +1,19 @@
+{
+  "id": "davide-de-paolis",
+  "name": "Davide de Paolis",
+  "title": "Engineering Manager",
+  "company": "Sevdeks/Shine",
+  "country": "Germany",
+  "bio": "Engineering Manager, AWS Community Builder, serverless aficionado, and outdoor freak. Originally from Italy, Davide taught himself software engineering in his twenties after a life-changing sabbatical in New Zealand. With over 20 years of experience in the tech industry, he's been living and working in Germany since 2013. He began his journey building Flash websites and expanded into Java, Unity3D/C#, TypeScript, Node.js, and React, before finding his passion in cloud engineering and platform work. Since 2018, he has been leading teams that build strategic services and internal platforms to support scale and developer productivity.",
+  "linkedin": "https://www.linkedin.com/in/davide-de-paolis-98ab9815/",
+  "sessions": [
+    "COM008"
+  ],
+  "image": "speakers/images/davide-de-paolis.jpg",
+  "co_speakers": [
+    "tiago-bilou"
+  ],
+  "aws_programs": {
+    "aws_community_builder": true
+  }
+}
