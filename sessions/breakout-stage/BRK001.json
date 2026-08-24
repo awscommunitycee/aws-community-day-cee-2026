@@ -1,0 +1,20 @@
+{
+  "id": "BRK001",
+  "title": "Stop Dreaming, Start Building: Scaling AI Projects with the AWS Partner Ecosystem",
+  "stage": "breakout-stage",
+  "start_time": "10:00",
+  "end_time": "10:30",
+  "duration_minutes": 30,
+  "speaker_ids": [
+    "sergiu-paune"
+  ],
+  "abstract": "AI projects are notoriously hard to finish. How do you move from a whiteboard idea to a deployed AWS solution without hitting a wall? The answer lies in collaboration and the right framework. In this session, we demystify the journey from AI ideation to AWS success. Join us to explore how the AWS Partner ecosystem acts as an acceleration engine for AI innovation. We'll show you how to move faster by unlocking AWS technical resources and go-to-market support. Most importantly, we'll dive deep into the TD SYNNEX AI Game Plan—a structured approach to identifying high-value use cases and preventing 'pilot purgatory.' Learn how to turn ambiguity into actionable, scalable, and valuable cloud solutions.",
+  "language": "English",
+  "audience_capacity": 40,
+  "room": "Akvárium",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2026-09-17",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
