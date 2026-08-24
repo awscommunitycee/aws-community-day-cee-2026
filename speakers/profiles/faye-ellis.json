@@ -1,0 +1,16 @@
+{
+  "id": "faye-ellis",
+  "name": "Faye Ellis",
+  "title": "Author Fellow",
+  "company": "Pluralsight",
+  "country": "United Kingdom",
+  "bio": "Faye Ellis is an AWS Community Hero and Author Fellow at Pluralsight. She has worked in the IT industry for around 20 years, working in SysOps, DevOps and Architecture roles with mission critical systems across a wide range of industries including financial services, telecommunications, government and healthcare. Faye is passionate about cloud technology and knows firsthand how important it is to keep your skills up to date.",
+  "linkedin": "https://www.linkedin.com/in/fayeellis/",
+  "sessions": [
+    "COM007"
+  ],
+  "image": "speakers/images/faye-ellis.jpg",
+  "aws_programs": {
+    "aws_hero": true
+  }
+}
