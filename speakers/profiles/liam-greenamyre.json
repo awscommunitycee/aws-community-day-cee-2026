@@ -1,0 +1,16 @@
+{
+  "id": "liam-greenamyre",
+  "name": "Liam Greenamyre",
+  "title": "Principal Product Manager",
+  "company": "AWS",
+  "country": "United States",
+  "bio": "Liam Greenamyre is a Principal Product Manager at Amazon Web Services. As part of the Developer Platform organization, Liam focuses on making AWS the easiest place for agents to build, deploy, and manage software. Liam is the product manager for the Agent Toolkit for AWS, a suite of MCP Servers, skills, and plugins that make coding agents more effective and efficient on AWS. Prior to his current role, Liam spent five years in Billing and Cost Management, most recently building AI products to help developers and FinOps practitioners understand and manage their AWS spend.",
+  "linkedin": "https://www.linkedin.com/in/liam-greenamyre-01606310/",
+  "sessions": [
+    "COM001"
+  ],
+  "image": "speakers/images/liam-greenamyre.jpg",
+  "aws_programs": {
+    "aws_employee": true
+  }
+}
