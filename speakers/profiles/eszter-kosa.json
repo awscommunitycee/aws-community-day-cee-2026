@@ -1,0 +1,17 @@
+{
+  "id": "eszter-kosa",
+  "name": "Eszter Kósa",
+  "title": "Cloud Engineer",
+  "company": "TC2",
+  "country": "Hungary",
+  "bio": "Eszter holds a degree in Physics from Eötvös Loránd University (ELTE), specializing in theoretical physics. She is currently working as a Cloud Engineer at TC2, where she applies her previous experience in data analysis to testing and optimizing AI-powered solutions.",
+  "linkedin": "https://www.linkedin.com/in/eszterkosa/",
+  "sessions": [
+    "BRK004"
+  ],
+  "image": "speakers/images/eszter-kosa.jpg",
+  "co_speakers": [
+    "karoly-sepsy"
+  ],
+  "aws_programs": {}
+}
