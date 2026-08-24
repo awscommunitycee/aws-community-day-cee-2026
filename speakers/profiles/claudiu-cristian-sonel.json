@@ -1,0 +1,16 @@
+{
+  "id": "claudiu-cristian-sonel",
+  "name": "Claudiu-Cristian Sonel",
+  "title": "Senior DevOps Consultant",
+  "company": "ENDAVA",
+  "country": "Romania",
+  "bio": "Claudiu works at the intersection of cloud-native platforms, real-world operations, and community-driven learning. As a Senior DevOps Consultant, he designs and implements production-grade platforms using Kubernetes and AWS, with a strong focus on Amazon EKS, traffic management, and observability. He focuses on building systems that scale, fail safely, and are operable in real environments, and helps engineers understand not just how things work but why they break through workshops and conference sessions. As an AWS Community Builder, he actively contributes to the cloud-native ecosystem by sharing open-source labs, real-world patterns, and lessons learned from production environments.",
+  "linkedin": "https://www.linkedin.com/in/csonel/",
+  "sessions": [
+    "WKS003"
+  ],
+  "image": "speakers/images/claudiu-cristian-sonel.jpg",
+  "aws_programs": {
+    "aws_community_builder": true
+  }
+}
