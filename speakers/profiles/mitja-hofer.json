@@ -1,0 +1,17 @@
+{
+  "id": "mitja-hofer",
+  "name": "Mitja Hofer",
+  "title": "Senior DevOps Engineer",
+  "company": "Celtra",
+  "country": "Slovenia",
+  "bio": "Mitja is a user group leader from Ljubljana, recently accepted as an AWS Community Builder in the ML category. He works as a Senior DevOps Engineer at Celtra, where the team handles ad creative scaling and ad serving, bringing many interesting challenges in the cloud infrastructure space. He has previously presented on using Amazon SageMaker to serve ML models in production at AWS Community Day in Sarajevo and at DevOps Days, the largest DevOps conference in Slovenia.",
+  "linkedin": "https://www.linkedin.com/in/mitjahofer/",
+  "sessions": [
+    "COM005"
+  ],
+  "image": "speakers/images/mitja-hofer.jpg",
+  "aws_programs": {
+    "aws_community_builder": true,
+    "aws_user_group_leader": true
+  }
+}
