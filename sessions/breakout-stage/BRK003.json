@@ -1,0 +1,20 @@
+{
+  "id": "BRK003",
+  "title": "Optimizing AI Costs with AWS Bedrock and SageMaker: A FinOps Methodology",
+  "stage": "breakout-stage",
+  "start_time": "11:30",
+  "end_time": "12:00",
+  "duration_minutes": 30,
+  "speaker_ids": [
+    "joshua-fox"
+  ],
+  "abstract": "Machine learning gets expensive, fast. Learn how to optimize costs with SageMaker and more.",
+  "language": "English",
+  "audience_capacity": 40,
+  "room": "Akvárium",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2026-09-17",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
