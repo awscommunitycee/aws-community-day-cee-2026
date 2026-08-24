@@ -1,0 +1,18 @@
+{
+  "id": "anton-antanovich",
+  "name": "Anton Antanovich",
+  "title": "Lead DevOps Engineer",
+  "company": "EPAM",
+  "country": "Poland",
+  "bio": "Lead System/DevOps Engineer with hands-on experience in automation, configuration management, and optimization, and over 10 years of experience in telecommunications and system administration. Anton is the AWS 3City User Group Leader, an AWS Community Builder, an AI ambassador, speaker, and mentor. His certifications include AWS Certified DevOps Engineer - Professional, AWS Certified Solutions Architect - Associate, AWS AI Practitioner, AWS AI Developer Professional, and HashiCorp Certified: Terraform Associate.",
+  "linkedin": "https://www.linkedin.com/in/antanovich3city/",
+  "sessions": [
+    "COM006"
+  ],
+  "image": "speakers/images/anton-antanovich.jpg",
+  "aws_programs": {
+    "aws_community_builder": true,
+    "aws_user_group_leader": true,
+    "aws_new_voices": true
+  }
+}
