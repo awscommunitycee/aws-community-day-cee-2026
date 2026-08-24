@@ -1,0 +1,16 @@
+{
+  "id": "paul-schwarzenberger",
+  "name": "Paul Schwarzenberger",
+  "title": "Cloud Security Engineer",
+  "company": "Celidor",
+  "country": "United Kingdom",
+  "bio": "Paul Schwarzenberger is a cloud security architect and engineer, leading security engagements and cloud migration projects for customers across sectors including financial services and Government. He has in-depth enterprise experience and certifications across all three major cloud platforms - AWS, Azure and GCP. He created OWASP Domain Protect, widely used amongst organisations as an open-source platform to prevent subdomain takeover, and the open-source Serverless CA. Paul is a regular speaker at security and cloud conferences, including fwd:cloudsec, OWASP Global AppSec, SANS CloudSec Next and Security BSides.",
+  "linkedin": "https://www.linkedin.com/in/paulschwarzen/",
+  "sessions": [
+    "COM002"
+  ],
+  "image": "speakers/images/paul-schwarzenberger.jpg",
+  "aws_programs": {
+    "aws_community_builder": true
+  }
+}
