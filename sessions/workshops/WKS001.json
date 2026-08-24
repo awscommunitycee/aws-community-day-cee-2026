@@ -1,0 +1,20 @@
+{
+  "id": "WKS001",
+  "title": "Create Your Own Role-Playing Game with Agentic AI using Strands Agents",
+  "stage": "workshops",
+  "start_time": "10:00",
+  "end_time": "11:30",
+  "duration_minutes": 90,
+  "speaker_ids": [
+    "arnaud-jean"
+  ],
+  "abstract": "Come & Code ALL Together a Game Master (GM) that will be responsible for orchestrating multiple AI agents, each specialized in a particular task. We'll explore concepts like agent tools, the MCP protocol (Model Context Protocol), A2A (Agent to Agent), and RAG (Retrieval-augmented generation) to create agents and/or MCP servers that roll dice, verify DnD rules, and generate the story as it unfolds. Whether you're a role-playing game fan or not, there will be things to learn during this workshop.",
+  "language": "English",
+  "audience_capacity": 26,
+  "room": "Hajó",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2026-09-17",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
