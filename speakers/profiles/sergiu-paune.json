@@ -1,0 +1,14 @@
+{
+  "id": "sergiu-paune",
+  "name": "Sergiu Paune",
+  "title": "AWS Business Development Manager",
+  "company": "TD SYNNEX",
+  "country": "Romania",
+  "bio": "Sergiu currently focuses on the AWS partner ecosystem at TD SYNNEX, helping partners build cloud practices and unlock co-sell and incentive programs. His work builds on more than nineteen years of experience across sales, business development, technical delivery, and strategy, gained at IBM, Halliburton, Vivendi, and now TD SYNNEX. His background spans industries including enterprise technology, energy, entertainment, and gaming, giving him a broad perspective that few professionals bring to partner conversations. This diverse experience enables him to connect partners' business goals with the technical strategies and practical steps required to achieve them.",
+  "linkedin": "https://www.linkedin.com/in/sergiu-paune/",
+  "sessions": [
+    "BRK001"
+  ],
+  "image": "speakers/images/sergiu-paune.jpg",
+  "aws_programs": {}
+}
