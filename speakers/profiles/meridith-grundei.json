@@ -1,0 +1,14 @@
+{
+  "id": "meridith-grundei",
+  "name": "Meridith Grundei",
+  "title": "Communication Strategist + Experience Director",
+  "company": "",
+  "country": "United States",
+  "bio": "Meridith Grundei, MFA is an executive communication coach who has spent the last decade helping technical people say what they mean and get heard. She developed Amazon's New Voices speaker program, coached re:Invent speakers for three years, and has trained AWS builders around the world through her Ready Room curriculum, a six-step method for preparing high-stakes communication. Her client list includes AWS, Visa, and Panasonic, and her writing on communication in the age of AI has appeared in Fast Company. A former theater director and improviser, she brings a performer's toolkit to rooms full of engineers: presence, timing, and the ability to respond when things go off script.",
+  "linkedin": "https://www.linkedin.com/in/meridith/",
+  "sessions": [
+    "COM009"
+  ],
+  "image": "speakers/images/meridith-grundei.jpg",
+  "aws_programs": {}
+}
