@@ -1,0 +1,20 @@
+{
+  "id": "WKS003",
+  "title": "Gateway API Isn't About Ingress Anymore: Building Service Networks on AWS with Amazon VPC Lattice",
+  "stage": "workshops",
+  "start_time": "14:30",
+  "end_time": "16:00",
+  "duration_minutes": 90,
+  "speaker_ids": [
+    "claudiu-cristian-sonel"
+  ],
+  "abstract": "For years, Kubernetes networking has followed a familiar pattern: create an Ingress, provision a load balancer, expose an application. Gateway API promised a better Ingress. Amazon VPC Lattice challenges the assumption that application networking must start with a load balancer at all. In this hands-on workshop, we'll explore how Gateway API can be used to build service networks directly from Kubernetes manifests, transforming familiar resources such as GatewayClass, Gateway, and HTTPRoute into Amazon VPC Lattice services and service networks. Instead of focusing on north-south traffic and external exposure, we'll look at how Gateway API can become a Kubernetes-native interface for service-to-service connectivity across applications, VPCs, and AWS accounts. Participants will deploy the AWS Gateway API Controller, provision VPC Lattice resources from Kubernetes, and build a complete application networking layer without deploying a single load balancer. Along the way, we'll discuss where VPC Lattice fits among ALBs, NLBs, service meshes, and traditional ingress architectures, and why Gateway API may be much bigger than an Ingress replacement. By the end of this workshop, you'll be able to answer: Is Gateway API really just the successor to Ingress? Do all Kubernetes applications need a load balancer? How can the same Kubernetes resources create a service network instead of an entry point? When should I choose ALB, NLB, VPC Lattice, or a service mesh? How can I build service-to-service connectivity directly from Kubernetes manifests? What changes when networking becomes a platform concern instead of an application concern? If your mental model of Gateway API stops at ingress, this workshop will challenge it.",
+  "language": "English",
+  "audience_capacity": 26,
+  "room": "Hajó",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2026-09-17",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
