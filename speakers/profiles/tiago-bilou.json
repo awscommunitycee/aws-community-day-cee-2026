@@ -1,0 +1,17 @@
+{
+  "id": "tiago-bilou",
+  "name": "Tiago Bilou",
+  "title": "Staff Software Engineer",
+  "company": "XING",
+  "country": "Germany",
+  "bio": "I go to a lot of meetings.",
+  "linkedin": "https://www.linkedin.com/in/tiagobilou/",
+  "sessions": [
+    "COM008"
+  ],
+  "image": "speakers/images/tiago-bilou.jpg",
+  "co_speakers": [
+    "davide-de-paolis"
+  ],
+  "aws_programs": {}
+}
