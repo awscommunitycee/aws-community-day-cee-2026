@@ -1,0 +1,20 @@
+{
+  "id": "WKS002",
+  "title": "AWS Security Agent: Get started with AI-powered proactive AppSec",
+  "stage": "workshops",
+  "start_time": "11:45",
+  "end_time": "13:15",
+  "duration_minutes": 90,
+  "speaker_ids": [
+    "andre-baumeier"
+  ],
+  "abstract": "Security reviews and penetration testing are critical but often create bottlenecks that slow down development teams. AWS Security Agent changes this dynamic by bringing AI-powered, proactive application security directly into the development lifecycle — from design through deployment. In this hands-on workshop, participants will set up and use AWS Security Agent to enforce organizational security requirements across design documents, code reviews, and live applications. You'll define security standards once — approved libraries, logging policies, data access controls — and see how the agent continuously validates your work against those standards, providing actionable guidance when it detects violations. You'll also experience how AWS Security Agent transforms penetration testing from a periodic, resource-intensive exercise into an on-demand capability. By providing target URLs, authentication details, and application context, the agent develops deep understanding of your application and executes sophisticated attack chains to discover real vulnerabilities. What you'll do: set up an instance of AWS Security Agent, run AI-powered penetration testing against a provided endpoint and validate the results, define custom organizational Security Requirements and apply them to the agent, use the agent to review architectural design documents for security compliance, and integrate the agent into a GitHub pull request workflow for automated code security review. Who should attend: software developers, DevSecOps engineers, and security engineers looking to shift security left and reduce friction between development velocity and security rigor. What you'll take away: practical experience using AWS Security Agent to automate security enforcement across your SDLC — enabling your teams to ship faster without compromising security posture.",
+  "language": "English",
+  "audience_capacity": 26,
+  "room": "Hajó",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2026-09-17",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
