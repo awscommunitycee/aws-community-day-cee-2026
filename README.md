@@ -5,7 +5,8 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Contributors](https://img.shields.io/badge/Contributors-Welcome-orange.svg)](CONTRIBUTING.md)
 
-<img width="2160" height="1080" alt="awscdcee-banner" src="https://github.com/user-attachments/assets/615dc9e3-5f47-4260-9eba-d97316db70eb" />
+<img width="1280" height="720" alt="highres_535416592" src="https://github.com/user-attachments/assets/3ebfa7a4-77af-46ab-96bf-8c596e5cb458" />
+
 
 > A comprehensive data repository for AWS Community Day CEE 2026 - a regional AWS community event bringing together 10 Central and Eastern European countries.
 
