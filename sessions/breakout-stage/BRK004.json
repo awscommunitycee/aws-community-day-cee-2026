@@ -1,0 +1,21 @@
+{
+  "id": "BRK004",
+  "title": "Across Accounts, Under Budget: TruvAI by TC2",
+  "stage": "breakout-stage",
+  "start_time": "12:15",
+  "end_time": "12:45",
+  "duration_minutes": 30,
+  "speaker_ids": [
+    "karoly-sepsy",
+    "eszter-kosa"
+  ],
+  "abstract": "What if AI could see across your AWS accounts, without burning your budget to do it? In this Community Day talk, TC2 shares how its AWS-based AI solution keeps agents practical in the real world: choosing models with cost in mind and reaching across accounts when the answer isn't in a single place. We'll connect that approach to everyday challenges and close with a live demo.",
+  "language": "English",
+  "audience_capacity": 40,
+  "room": "Akvárium",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2026-09-17",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
