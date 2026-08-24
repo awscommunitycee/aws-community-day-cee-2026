@@ -43,7 +43,7 @@ Complete access to all conference content including:
 - Scheduled activities and networking
 - Partner booths access
 
-### Premium Ticket - €50.00
+### Premium Ticket - €45.00
 Everything in Standard ticket plus:
 - **Free lunch**
 - **Complimentary refreshments**
