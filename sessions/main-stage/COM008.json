@@ -1,0 +1,21 @@
+{
+  "id": "COM008",
+  "title": "Serverless vs Kubernetes: the final showdown",
+  "stage": "main-stage",
+  "start_time": "15:30",
+  "end_time": "16:00",
+  "duration_minutes": 30,
+  "speaker_ids": [
+    "davide-de-paolis",
+    "tiago-bilou"
+  ],
+  "abstract": "There is no silver bullet! While that may be true, it won't stop us from stepping into the ring to argue over these two opinionated and polarising approaches to cloud computing. In this lively debate, we'll spar over complexity, scalability, cost, and real-world use cases. We'll unpack the biases and prejudices we all bring to architecture decisions, challenge common assumptions, and explore topics like security, legacy modernization, and event-driven architecture. Whether you're Team Serverless, Team Kubernetes, or undecided, join us as we wrestle with the tradeoffs that come with each model. Who will win?",
+  "language": "English",
+  "audience_capacity": 200,
+  "room": "Üvegterem",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2026-09-17",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
