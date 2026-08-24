@@ -1,0 +1,20 @@
+{
+  "id": "COM004",
+  "title": "From Threat to Guardian: Harnessing AI/ML on AWS",
+  "stage": "main-stage",
+  "start_time": "11:50",
+  "end_time": "12:20",
+  "duration_minutes": 30,
+  "speaker_ids": [
+    "daniel-clement"
+  ],
+  "abstract": "One of the most rapidly expanding cyber-enabled crimes is sextortion, which takes advantage of weaker people by manipulating them and using digital blackmail. This worldwide menace is too great for traditional law enforcement to handle alone. In this talk, I'll walk you through how governments and companies can build a multi-layered defense that integrates detection, prevention, and quick response by implementing AI-powered detection models on AWS to flag suspicious activity across messaging, email, and social media platforms. We would be examining the use of SageMaker or Bedrock, Rekognition, and AWS Comprehend. Walk you through my built, secured digital portal powered by AWS Amplify for anonymous reporting and connecting victims with immediate support while complying with privacy and child protection compliance standards in the solution.",
+  "language": "English",
+  "audience_capacity": 200,
+  "room": "Üvegterem",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2026-09-17",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
