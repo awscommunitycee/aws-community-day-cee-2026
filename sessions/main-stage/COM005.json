@@ -1,0 +1,20 @@
+{
+  "id": "COM005",
+  "title": "Lessons Learned After Putting AWS DevOps Agent in our SRE Workflow",
+  "stage": "main-stage",
+  "start_time": "12:30",
+  "end_time": "13:00",
+  "duration_minutes": 30,
+  "speaker_ids": [
+    "mitja-hofer"
+  ],
+  "abstract": "AI agents sound very compelling in demos, but real world use in production gets complicated. After months of running AWS DevOps Agent as part of Celtra's SRE operations, we have opinions about what works, what doesn't and what we wished someone told us before we started. In this talk we'll cover how we evaluated and integrated DevOps in our incident response work flow, how we extended it with Lambda and what this allows us to do. We will take a look how the agent proposes actions to the on-call engineer and how we closed the loop by connecting agent proposed mitigations in our software development lifecycle. We will take a look at alternatives we considered, the caveats we ran into and mistakes that cost us time and what we learned after months of agents in our incident response workflows.",
+  "language": "English",
+  "audience_capacity": 200,
+  "room": "Üvegterem",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2026-09-17",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
