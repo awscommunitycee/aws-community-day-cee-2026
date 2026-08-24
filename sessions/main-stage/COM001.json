@@ -1,0 +1,20 @@
+{
+  "id": "COM001",
+  "title": "Opening Keynote - The (Hype-Free) AI SDLC, as of September 2026",
+  "stage": "main-stage",
+  "start_time": "09:05",
+  "end_time": "09:50",
+  "duration_minutes": 45,
+  "speaker_ids": [
+    "liam-greenamyre"
+  ],
+  "abstract": "As AI drives down the cost of writing code, bottlenecks move elsewhere, new skills are needed, and organizations have to re-think how they work. Join for an in-depth, hype-free look at the state of the AI-driven software development lifecycle as of September 2026. Learn how leading organizations are adapting how they understand customers, prioritize roadmaps, scope new features, architect systems, write code, test, deploy, and manage operations in the age of AI. Gain practical tips for how to accelerate your own organization's SDLC using AI.",
+  "language": "English",
+  "audience_capacity": 200,
+  "room": "Üvegterem",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2026-09-17",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
