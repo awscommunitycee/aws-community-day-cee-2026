@@ -1,0 +1,16 @@
+{
+  "id": "anahit-pogosova",
+  "name": "Anahit Pogosova",
+  "title": "Cloud Architecture & Engineering Lead",
+  "company": "F-Secure Corporation",
+  "country": "Finland",
+  "bio": "Anahit is an AWS Data Hero and Cloud Architecture & Engineering Lead at F-Secure, where she leads the Cloud Center of Excellence: a team focused on AWS governance, security, and cloud best practices. With over 16 years of experience across full-stack and data engineering, her career has evolved from building monolithic on-premises systems to architecting modern, resilient, and scalable cloud solutions. Anahit speaks at conferences and meetups, appears on podcasts and YouTube channels, and teaches online courses.",
+  "linkedin": "https://www.linkedin.com/in/anahit-pogosova/",
+  "sessions": [
+    "COM003"
+  ],
+  "image": "speakers/images/anahit-pogosova.jpg",
+  "aws_programs": {
+    "aws_hero": true
+  }
+}
