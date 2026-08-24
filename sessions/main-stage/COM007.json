@@ -1,0 +1,20 @@
+{
+  "id": "COM007",
+  "title": "Responsible AI in Practice: Operationalizing AI Safety with Amazon Bedrock Guardrails",
+  "stage": "main-stage",
+  "start_time": "14:45",
+  "end_time": "15:15",
+  "duration_minutes": 30,
+  "speaker_ids": [
+    "faye-ellis"
+  ],
+  "abstract": "Responsible AI is often discussed in terms of principles and governance frameworks, but organizations ultimately need practical mechanisms to implement those principles in production systems. In this session, we'll explore how Amazon Bedrock Guardrails can help organizations operationalize Responsible AI by introducing configurable controls like blocking harmful content, and protection against prompt injection attacks, protecting sensitive information, and enforcing custom organizational policies across foundation models. Attendees will leave with practical guidance for designing, deploying, and governing safer generative AI solutions on AWS.",
+  "language": "English",
+  "audience_capacity": 200,
+  "room": "Üvegterem",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2026-09-17",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
