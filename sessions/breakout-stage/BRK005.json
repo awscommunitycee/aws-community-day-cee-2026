@@ -1,0 +1,20 @@
+{
+  "id": "BRK005",
+  "title": "One Endpoint, Every Model: Building an Adaptive LLM Gateway on AWS",
+  "stage": "breakout-stage",
+  "start_time": "14:00",
+  "end_time": "14:30",
+  "duration_minutes": 30,
+  "speaker_ids": [
+    "gyorgy-mark-varga"
+  ],
+  "abstract": "Amazon Bedrock now puts 19 model providers behind one API, yet its built-in Intelligent Prompt Routing only picks between two sibling models, and hosted routers like OpenRouter are a non-starter when your data can't leave AWS. In this demo-driven session we assemble the missing piece from AWS parts: Bedrock's unified and OpenAI-compatible APIs, Intelligent Prompt Routing where it shines, and a LiteLLM-based gateway built on the official AWS Multi-Provider GenAI Gateway guidance, with virtual keys, per-team budgets, cross-provider fallbacks, semantic caching, and a Thompson-sampling router that learns from live traffic. Everything runs live on stage, and not everything is meant to survive. You leave with the repo, plus routing patterns proven on enterprise banking projects.",
+  "language": "English",
+  "audience_capacity": 40,
+  "room": "Akvárium",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2026-09-17",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
