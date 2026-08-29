@@ -12,8 +12,8 @@ sessions/
 speakers/
   profiles/           # <speaker-id>.json — one file per speaker
   images/             # <speaker-id>.jpg  — one headshot per speaker
-LICENSE
 CONTRIBUTING.md
+LICENSE
 README.md
 ```
 
