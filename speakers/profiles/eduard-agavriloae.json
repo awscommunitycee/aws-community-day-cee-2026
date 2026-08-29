@@ -1,0 +1,16 @@
+{
+  "id": "eduard-agavriloae",
+  "name": "Eduard Agavriloae",
+  "title": "Co-Founder & Director R&D",
+  "company": "OFFENSAI",
+  "country": "Romania",
+  "bio": "Cloud Security Researcher, AWS Offensive Security Expert, Co-founder and Director of R&D at OFFENSAI, Ethical Hacker, DEFCON speaker, Trainer and Cat Owner.",
+  "linkedin": "https://www.linkedin.com/in/eduard-k-agavriloae/",
+  "sessions": [
+    "COM004"
+  ],
+  "image": "speakers/images/eduard-agavriloae.jpg",
+  "aws_programs": {
+    "aws_community_builder": true
+  }
+}
