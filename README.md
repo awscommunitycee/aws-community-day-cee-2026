@@ -70,7 +70,7 @@ Everything in Premium ticket plus:
 | 9:05 - 9:50 AM | **Opening Keynote** - The (Hype-Free) AI SDLC, as of September 2026 | Liam Greenamyre 🇺🇸 |
 | 10:15 - 10:45 AM | 5 Steps to IAM Zero | Paul Schwarzenberger 🇬🇧 |
 | 10:55 - 11:40 AM | Hidden trade-offs in distributed architectures | Anahit Pogosova 🇫🇮 |
-| 11:50 AM - 12:20 PM | From Threat to Guardian: Harnessing AI/ML on AWS | Daniel Clement 🇬🇭 |
+| 11:50 AM - 12:20 PM | AWS Eventual Persistence: Performing Actions with Deleted Identities | Eduard Agavriloae 🇷🇴 |
 | 12:30 - 1:00 PM | Lessons Learned After Putting AWS DevOps Agent in our SRE Workflow | Mitja Hofer 🇸🇮 |
 | 2:00 - 2:30 PM | IAC (Infrastructure as a Context of your AI agent) | Anton Antanovich 🇵🇱 |
 | 2:45 - 3:15 PM | Responsible AI in Practice: Operationalizing AI Safety with Amazon Bedrock Guardrails | Faye Ellis 🇬🇧 |
