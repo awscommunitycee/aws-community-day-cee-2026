@@ -1,0 +1,20 @@
+{
+  "id": "BRK006",
+  "title": "Moderation at Scale with Generative AI",
+  "stage": "breakout-stage",
+  "start_time": "14:45",
+  "end_time": "15:15",
+  "duration_minutes": 30,
+  "speaker_ids": [
+    "sandor-kaman"
+  ],
+  "abstract": "Any platform that publishes what its users submit runs into the same wall. Every item has to be checked before it goes live: is it in the right language, does the title match what's actually being offered, is the thing allowed at all, and does it follow whatever rules apply to its category. People can do this work, but not quickly and not the same way twice. Keyword filters miss the nuance and block the wrong things. Cheppers has built a generative-AI moderation service for one of their partners, and in this session Sándor works through the thinking that goes into one: which checks a model can be trusted with and which it can't, how to handle a call that fails, where a human still has to look, and what actually drives the cost per item. The lessons come from a system that runs in production.",
+  "language": "English",
+  "audience_capacity": 40,
+  "room": "Akvárium",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2026-09-17",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
