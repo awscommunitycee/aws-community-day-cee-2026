@@ -1,0 +1,14 @@
+{
+  "id": "sandor-kaman",
+  "name": "Sándor Kámán",
+  "title": "Senior DevOps & Cloud Engineer",
+  "company": "Cheppers",
+  "country": "Hungary",
+  "bio": "Senior DevOps & Cloud Engineer at Cheppers with expertise in cloud engineering and DevOps practices.",
+  "linkedin": "https://www.linkedin.com/in/sandor-kaman-18a11364/",
+  "sessions": [
+    "BRK006"
+  ],
+  "image": "speakers/images/sandor-kaman.jpg",
+  "aws_programs": {}
+}
