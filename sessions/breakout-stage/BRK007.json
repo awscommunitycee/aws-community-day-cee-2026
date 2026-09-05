@@ -1,0 +1,20 @@
+{
+  "id": "BRK007",
+  "title": "Trust but Verify: Building Compliant LLM Pipelines on AWS",
+  "stage": "breakout-stage",
+  "start_time": "15:30",
+  "end_time": "16:00",
+  "duration_minutes": 30,
+  "speaker_ids": [
+    "csaba-szegedi"
+  ],
+  "abstract": "Large Language Models are moving fast into regulated, sensitive workloads — but every prompt, response, and trace you log for debugging is also a potential compliance liability. How do you get the observability your engineers need without turning your logs into a GDPR/HIPAA incident waiting to happen? In this talk, we'll walk through a real-world AWS architecture built to solve exactly this trade-off: a data-masking and tokenization pipeline that sits between your application and Amazon Bedrock, using AWS Batch for processing, Amazon S3 and CloudWatch for storage and monitoring, and TLS/encryption best practices throughout — all designed so sensitive data is reversibly masked for privacy while traces stay useful enough to actually debug production issues. You'll leave with a practical pattern for privacy-by-design observability on AWS: what to mask, what to preserve, how to choose between AWS-native logging features and custom pipelines, and how to configure different observability "risk levels" for dev vs. production. Whether you're building GenAI features for healthcare, finance, or any data-sensitive domain, this session gives you a concrete blueprint for shipping LLM features your compliance team won't lose sleep over.",
+  "language": "English",
+  "audience_capacity": 40,
+  "room": "Akvárium",
+  "event_info": {
+    "event_name": "AWS Community Day CEE",
+    "event_date": "2026-09-17",
+    "location": "Kristály Színtér, Budapest, Hungary"
+  }
+}
