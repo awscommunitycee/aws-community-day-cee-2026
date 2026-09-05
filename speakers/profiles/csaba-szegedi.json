@@ -1,0 +1,17 @@
+{
+  "id": "csaba-szegedi",
+  "name": "Csaba Szegedi",
+  "title": "Senior Cloud Architect",
+  "company": "SnapSoft",
+  "country": "Hungary",
+  "bio": "Csaba Szegedi is a Senior Cloud Architect at SnapSoft, specializing in AWS migration, security, and solution architecture for enterprise cloud transformations. He holds four AWS Professional/Specialty certifications — Solutions Architect Professional, DevOps Engineer Professional, Security Specialty, and Advanced Networking Specialty — and spent over six years as an AWS Technical Trainer, teaching cloud architecture and best practices to engineers across industries. At SnapSoft, Csaba has led assessment and migration projects spanning data masking and privacy-preserving observability for LLM workloads, multi-account AWS Organizations design, containerized platform migrations, and large-scale legacy modernization. He also runs Syntax Nebula, a personal architecture and training venture, on the side.",
+  "linkedin": "https://www.linkedin.com/in/csabaszegedi/",
+  "sessions": [
+    "BRK007"
+  ],
+  "image": "speakers/images/csaba-szegedi.jpg",
+  "aws_programs": {
+    "aws_community_builder": true,
+    "aws_user_group_leader": true
+  }
+}
